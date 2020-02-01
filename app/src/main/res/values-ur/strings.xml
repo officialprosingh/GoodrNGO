@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NGO</string>
+
+    <string name="slogan">ایک مختلف دنیا بنائیں</string>
+    <string name="thanks">آج کچھ کھانا عطیہ کرنے اور اس دنیا کو ایک بہتر مقام بنانے کے لئے شکریہ۔</string>
+    <array name="genres">
+        <item name="rock">BreakFast</item>
+        <item name="pop">Lunch</item>
+        <item name="jazz">Dinner</item>
+
+    </array>
+
+    <string name="donator">کھانے کے عطیہ میں مدد کی ضرورت ہے؟</string>
+    <string name="farmerhelp">کاشتکاری میں مدد کی ضرورت ہے</string>
+    <string name="buyerhelp">خریداری میں مدد کی ضرورت ہے</string>
+
+    <string name="welcome">خوش آمدید</string>
+    <string name="sign">ابھی سائن اپ کریں</string>
+    <string name="help">مدد چاہیے؟</string>
+    <string name="swelcome">خوش آمدید</string>
+
+    <string name="name">نام</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="cacc">ایک اکاؤنٹ بنائیں!</string>
+    <string name="faq">عمومی سوالات</string>
+    <string name="language">زبان تبدیل کریں</string>
+    <string name="join">شامل ہوں GOODR</string>
+    <string name="signedup">پہلے ہی سائن اپ!</string>
+    <string name="back">واپس جاو</string>
+    <string name="share">اسے اپنے دوستوں کے ساتھ شیئر کریں</string>
+
+
+    <string name="input_error_name">نام کی ضرورت ہے</string>
+    <string name="input_error_email">ای میل کی ضرورت ہے</string>
+    <string name="input_error_password">پاس ورڈ درکار ہے</string>
+    <string name="input_error_phone">فون کی ضرورت ہے</string>
+    <string name="input_error_password_length">پاس ورڈ کم از کم 6 حروف کا ہونا چاہئے</string>
+    <string name="input_error_phone_invalid">ایک درست فون نمبر درج کریں</string>
+    <string name="registration_success">کامیابی کے ساتھ رجسٹرڈ</string>
+    <string name="input_error_email_invalid">ایک درست ای میل درج کریں</string>
+    <string name="buy">فصلیں اور کھادیں خریدیں</string>
+    <string name="sold">آپ کی فصل کو مارکیٹ کی جگہ میں شامل کرنے کا شکریہ ، جلد ہی ایک خریدار آپ سے رابطہ کرے گا۔</string>
+    <string name="logout">لاگ آوٹ</string>
+    <string name="login">لاگ ان کریں</string>
+
+
+    ///About Us
+    <string name="contactemail" translatable="false">info@instaeasy.online</string>
+    <string name="contactnumber" translatable="false">+91 9284458773</string>
+    <string name="contactaddres" translatable="false">Ganesh Nagar, Pune India 411031</string>
+    <string name="myname" translatable="false">Made By - Parwinder Singh</string>
+    <string name="instagram" translatable="false">Follow Us On instagram"</string>
+
+    ///Buy
+    <string name="crops">فصل فروخت پر</string>
+
+    //Confirm
+    <string name="confirm">تصدیق</string>
+
+    ///Donate
+    <string name="donate">ابھی کھانا عطیہ کریں</string>
+    <string name="dname">نام</string>
+    <string name="dnumber">فون نمبر</string>
+    <string name="dweight">وزن</string>
+    <string name="daddress">پتہ</string>
+    <string name="dfood">کھانا (ناشتہ ، لنچ اور رات کا کھانا)</string>
+    <string name="dbutton">چندہ شامل کریں</string>
+
+    ///Food
+    <string name="dlist">عطیہ کی فہرست</string>
+
+
+    ///Main
+    <string name="msell">فصل بیچیں</string>
+    <string name="mfood">کھانا عطیہ کریں</string>
+    <string name="mfood2">کھانا پینا</string>
+    <string name="faq2">اپنے تمام سوالات کے جوابات یہاں حاصل کریں!</string>
+    <string name="mearn">مزید پیسہ کمانے میں مدد کریں</string>
+    <string name="mearn2">بہترین منافع حاصل کرنے کے لئے نکات حاصل کریں۔</string>
+
+
+    ///Sconfirm
+    <string name="sadress">کسان کا پتہ</string>
+    <string name="price">قیمت</string>
+    <string name="saccept">قبول کریں</string>
+
+    ///Sell
+    <string name="scrop">ابھی فصل فروخت کریں</string>
+    <string name="sweight">فصل کا وزن</string>
+    <string name="sfood">فصل کی قسم (چاول یا سفید)</string>
+    <string name="sprice">قیمت پوچھنا</string>
+    <string name="sbutton">فصل بیچیں</string>
+
+
+    ///DIALog
+    <string name="dcall">ڈونٹر کو کال کریں</string>
+    <string name="difood">کھانا مل گیا</string>
+    <string name="fcall">کسان کو فون کریں</string>
+    <string name="fbrought">پہلے سے ہی بروشر</string>
+
+    <string name="foodtype">کھانے کی قسم</string>
+
+    ///FAQ
+    <string name="faqq1">ایک دن میں میں کتنا عطیہ کرسکتا ہوں یا خوراک وصول کرسکتا ہوں؟</string>
+    <string name="faqq1a">جواب کھانا وصول کرنے یا عطیہ کرنے کی کوئی حد نہیں ہے</string>
+    <string name="faqq2">کیا میں اس ایپ کا استعمال کرکے پیسے دے سکتا ہوں!</string>
+    <string name="faqq2a">جواب فی الحال اس ایپ کا استعمال کرتے ہوئے ، آپ رقم کا عطیہ نہیں کرسکتے ہیں۔</string>
+    <string name="faqq3">کیا یہ ایپ صارف کی معلومات کو محفوظ یا فروخت کرتی ہے؟</string>
+    <string name="faqq3a">جواب نہیں ہم کسی بھی قسم کی صارف کی معلومات کو بیچتے یا ذخیرہ نہیں کرتے</string>
+    <string name="faqq4">جس سے میرا کھانا وصول ہوگا</string>
+    <string name="faqq4a">جواب این جی اوز یا ایسے فرد کو بھی شامل کریں جن کو خوراک کی ضرورت ہو وہ اس ایپ سے خوراک حاصل کرسکتے ہیں۔</string>
+    <string name="faqq5">اگر کھانا اچھ Goodی معیار کا نہ ہو تو کیا ہوگا</string>
+    <string name="faqq5a">جواب اگر کھانا مارک کے مطابق نہیں ہے ، تو آپ فورا کھانا واپس کرسکتے ہیں!</string>
+    <string name="conatct">ہم سے رابطہ کریں</string>
+
+
+
+
+    <string name="bhelp">خریدار مدد؟</string>
+    <string name="ddonation">چندہ کا پتہ</string>
+    <string name="call">ہمیں بلائیں</string>
+    <string name="website">ہماری ویبسائٹ پے جائیں</string>
+    <string name="insta">انسٹاگرام پر ہم سے رابطہ کریں</string>
+
+</resources>

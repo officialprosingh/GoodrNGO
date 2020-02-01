@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#fcfcfc">
+
+
+    <TextView
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/daddress"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"/>
+
+
+
+        <Button
+            android:id="@+id/buttonUpdateArtist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dcall"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorPrimary"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif-medium"/>
+
+        <Button
+            android:id="@+id/buttonDeleteArtist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/difood"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorPrimary"
+            android:fontFamily="sans-serif-medium"/>
+
+
+
+</LinearLayout>

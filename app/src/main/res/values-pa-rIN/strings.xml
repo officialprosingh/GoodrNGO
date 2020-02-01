@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NGO</string>
+
+    <string name="slogan">ਇਕ ਵੱਖਰੀ ਦੁਨੀਆ ਬਣਾਓ</string>
+    <string name="thanks">ਅੱਜ ਕੁਝ ਖਾਣਾ ਦਾਨ ਕਰਨ ਅਤੇ ਇਸ ਸੰਸਾਰ ਨੂੰ ਇਕ ਵਧੀਆ ਜਗ੍ਹਾ ਬਣਾਉਣ ਲਈ ਧੰਨਵਾਦ.</string>
+    <array name="genres">
+        <item name="rock">BreakFast</item>
+        <item name="pop">Lunch</item>
+        <item name="jazz">Dinner</item>
+
+    </array>
+    <string name="name">ਨਾਮ</string>
+    <string name="email">ਈ - ਮੇਲ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="cacc">ਇੱਕ ਖਾਤਾ ਬਣਾਓ!</string>
+    <string name="faq">ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਪ੍ਰਸ਼ਨ</string>
+    <string name="language">ਭਾਸ਼ਾ ਬਦਲੋ</string>
+    <string name="join">ਜੁੜੋ GOODR</string>
+    <string name="signedup">ਪਹਿਲਾਂ ਹੀ ਸਾਈਨ ਅਪ ਕੀਤਾ ਹੋਇਆ ਹੈ!</string>
+    <string name="back">ਵਾਪਸ ਜਾਓ</string>
+    <string name="share">ਇਸਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+
+    <string name="welcome">ਸਵਾਗਤ ਹੈ</string>
+    <string name="sign">ਹੁਣੇ ਸਾਈਨ ਅਪ ਕਰੋ</string>
+    <string name="help">ਮਦਦ ਦੀ ਲੋੜ ਹੈ?</string>
+    <string name="swelcome">ਸਵਾਗਤ ਹੈ</string>
+
+
+    <string name="input_error_name">ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ</string>
+    <string name="input_error_email">ਈਮੇਲ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="input_error_password">ਪਾਸਵਰਡ ਲੋੜੀਂਦਾ ਹੈ</string>
+    <string name="input_error_phone">ਫੋਨ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="input_error_password_length">ਪਾਸਵਰਡ ਘੱਟੋ ਘੱਟ 6 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</string>
+    <string name="input_error_phone_invalid">ਇੱਕ ਵੈਧ ਫੋਨ ਨੰਬਰ ਦਾਖਲ ਕਰੋ</string>
+    <string name="registration_success">ਸਫਲਤਾਪੂਰਵਕ ਰਜਿਸਟਰ ਹੋਇਆ</string>
+    <string name="input_error_email_invalid">ਇੱਕ ਵੈਧ ਈਮੇਲ ਦਰਜ ਕਰੋ</string>
+    <string name="buy">ਫਸਲਾਂ ਅਤੇ ਖਾਦ ਖਰੀਦੋ</string>
+    <string name="sold">ਆਪਣੀ ਫਸਲ ਨੂੰ ਮਾਰਕੀਟ ਪਲੇਸ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਧੰਨਵਾਦ, ਜਲਦੀ ਹੀ ਇੱਕ ਖਰੀਦਦਾਰ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੇਗਾ.</string>
+    <string name="logout">ਲਾੱਗ ਆਊਟ</string>
+    <string name="login">ਲਾਗਿਨ</string>
+
+
+    ///About Us
+    <string name="contactemail" translatable="false">info@instaeasy.online</string>
+    <string name="contactnumber" translatable="false">+91 9284458773</string>
+    <string name="contactaddres" translatable="false">Ganesh Nagar, Pune India 411031</string>
+    <string name="myname" translatable="false">Made By - Parwinder Singh</string>
+    <string name="instagram" translatable="false">Follow Us On instagram"</string>
+
+    ///Buy
+    <string name="crops">ਵਿਕਰੀ ਤੇ ਕਰੋਪ ਕਰੋ</string>
+
+    //Confirm
+    <string name="confirm">ਪੁਸ਼ਟੀਕਰਣ</string>
+
+    ///Donate
+    <string name="donate">ਹੁਣ ਭੋਜਨ ਦਾਨ ਕਰੋ</string>
+    <string name="dname">ਨਾਮ</string>
+    <string name="dnumber">ਫੋਨ ਨੰਬਰ</string>
+    <string name="dweight">ਭਾਰ</string>
+    <string name="daddress">ਪਤਾ</string>
+    <string name="dfood">ਭੋਜਨ (ਨਾਸ਼ਤਾ, ਦੁਪਹਿਰ ਦਾ ਖਾਣਾ ਅਤੇ ਰਾਤ ਦਾ ਖਾਣਾ)</string>
+    <string name="dbutton">ਦਾਨ ਸ਼ਾਮਲ ਕਰੋ</string>
+
+    <string name="donator">ਭੋਜਨ ਦਾਨ ਵਿੱਚ ਸਹਾਇਤਾ ਦੀ ਲੋੜ ਹੈ?</string>
+    <string name="farmerhelp">ਖੇਤੀ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ</string>
+    <string name="buyerhelp">ਖਰੀਦਣ ਵਿੱਚ ਸਹਾਇਤਾ ਦੀ ਲੋੜ ਹੈ</string>
+    ///Food
+    <string name="dlist">ਦਾਨ ਦੀ ਸੂਚੀ</string>
+
+
+    ///Main
+    <string name="msell">ਫਸਲ ਵੇਚੋ</string>
+    <string name="mfood">ਭੋਜਨ ਦਾਨ ਕਰੋ</string>
+    <string name="mfood2">ਭੋਜਨ ਲਵੋ</string>
+    <string name="faq2">ਆਪਣੇ ਸਾਰੇ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਉੱਤਰ ਇੱਥੇ ਪ੍ਰਾਪਤ ਕਰੋ!</string>
+    <string name="mearn">ਵਧੇਰੇ ਪੈਸੇ ਕਮਾਉਣ ਵਿਚ ਸਹਾਇਤਾ</string>
+    <string name="mearn2">ਵਧੀਆ ਲਾਭ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸੁਝਾਅ ਪ੍ਰਾਪਤ ਕਰੋ.</string>
+
+
+    ///Sconfirm
+    <string name="sadress">ਕਿਸਾਨ ਦਾ ਪਤਾ</string>
+    <string name="price">ਮੁੱਲ</string>
+    <string name="saccept">ਸਵੀਕਾਰ ਕਰੋ</string>
+
+    ///Sell
+    <string name="scrop">ਹੁਣ ਫਸਲ ਵੇਚੋ</string>
+    <string name="sweight">ਫਸਲ ਦਾ ਭਾਰ</string>
+    <string name="sfood">ਫਸਲ ਦੀ ਕਿਸਮ (ਚਾਵਲ ਜਾਂ ਚਿੱਟਾ)</string>
+    <string name="sprice">ਕੀਮਤ ਪੁੱਛਣਾ</string>
+    <string name="sbutton">ਫਸਲ ਵੇਚੋ</string>
+
+
+    ///DIALog
+    <string name="dcall">ਦਾਨੀ ਨੂੰ ਕਾਲ ਕਰੋ</string>
+    <string name="difood">ਭੋਜਨ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="fcall">ਕਿਸਾਨ ਨੂੰ ਕਾਲ ਕਰੋ</string>
+    <string name="fbrought">ਪਹਿਲਾਂ ਹੀ ਬ੍ਰਾਉਟ</string>
+
+    <string name="foodtype">"ਭੋਜਨ ਦੀ ਕਿਸਮ "</string>
+
+
+    ///FAQ
+    <string name="faqq1">ਇੱਕ ਦਿਨ ਦੇ ਅੰਦਰ ਮੈਂ ਕਿੰਨਾ ਖੂਨਦਾਨ ਜਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹਾਂ?</string>
+    <string name="faqq1a">ਉੱਤਰ ਭੋਜਨ ਪ੍ਰਾਪਤ ਕਰਨ ਜਾਂ ਦਾਨ ਕਰਨ ਦੀ ਕੋਈ ਸੀਮਾ ਨਹੀਂ ਹੈ</string>
+    <string name="faqq2">ਕੀ ਮੈਂ ਇਸ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਪੈਸੇ ਦਾਨ ਕਰ ਸਕਦਾ ਹਾਂ!</string>
+    <string name="faqq2a">ਉੱਤਰ ਵਰਤਮਾਨ ਵਿੱਚ ਇਸ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਕੇ, ਤੁਸੀਂ ਪੈਸੇ ਦਾਨ ਨਹੀਂ ਕਰ ਸਕਦੇ.</string>
+    <string name="faqq3">ਕੀ ਇਹ ਐਪ ਉਪਭੋਗਤਾ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸਟੋਰ ਜਾਂ ਵੇਚਦਾ ਹੈ</string>
+    <string name="faqq3a">ਉੱਤਰ ਨਹੀਂ ਅਸੀਂ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੀ ਉਪਭੋਗਤਾ ਜਾਣਕਾਰੀ ਵੇਚ ਜਾਂ ਸਟੋਰ ਨਹੀਂ ਕਰਦੇ</string>
+    <string name="faqq4">ਜਿਸਨੂੰ ਮੇਰਾ ਭੋਜਨ ਪ੍ਰਾਪਤ ਹੋਵੇਗਾ</string>
+    <string name="faqq4a">ਉੱਤਰ ਗੈਰ ਸਰਕਾਰੀ ਸੰਸਥਾਵਾਂ ਜਾਂ ਉਹ ਵਿਅਕਤੀ ਜਿਸ ਨੂੰ ਭੋਜਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਇਸ ਐਪ ਤੋਂ ਭੋਜਨ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹਨ.</string>
+    <string name="faqq5">ਕੀ ਜੇ ਭੋਜਨ ਚੰਗੀ ਗੁਣਵੱਤਾ ਦਾ ਨਹੀਂ ਹੈ</string>
+    <string name="faqq5a">ਉੱਤਰ ਜੇ ਭੋਜਨ ਮਾਰਕ \'ਤੇ ਨਹੀਂ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਤੁਰੰਤ ਭੋਜਨ ਵਾਪਸ ਕਰ ਸਕਦੇ ਹੋ!</string>
+    <string name="conatct">ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
+
+
+
+
+
+
+
+    <string name="bhelp">ਖਰੀਦਦਾਰ ਮਦਦ?</string>
+    <string name="ddonation">ਦਾਨ ਦਾ ਪਤਾ</string>
+    <string name="call">ਸਾਨੂੰ ਕਾਲ ਕਰੋ</string>
+    <string name="website">ਸਾਡੀ ਵੈਬਸਾਈਟ ਤੇ ਜਾਓ</string>
+    <string name="insta">ਸਾਡੇ ਨਾਲ ਇੰਸਟਾਗ੍ਰਾਮ \'ਤੇ ਸੰਪਰਕ ਕਰੋ</string>
+>
+</resources>
